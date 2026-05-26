@@ -35,9 +35,9 @@
               (11) 97337-2843
             </a>
             <span class="contact-divider">•</span>
-            <a href="mailto:atendimento@turbotrack.com.br" class="contact-item">
+            <a href="mailto:atendimento@turbotracktransportes.com.br" class="contact-item">
               <v-icon size="16" color="#E8821A">mdi-email-outline</v-icon>
-              atendimento@turbotrack.com.br
+              atendimento@turbotracktransportes.com.br
             </a>
           </div>
         </div>
@@ -53,7 +53,7 @@
 
               <div class="form-row">
                 <v-text-field v-model="empresa" label="Nome ou razão social" variant="outlined" density="compact" color="#E8821A" bg-color="white" prepend-inner-icon="mdi-domain" />
-                <v-text-field v-model="whatsapp" label="WhatsApp para retorno" variant="outlined" density="compact" color="#E8821A" bg-color="white" prepend-inner-icon="mdi-whatsapp" placeholder="(00) 00000-0000" @input="mascaraTelefone" maxlength="15" />
+                <v-text-field v-model="whatsapp" label="WhatsApp para retorno" variant="outlined" density="compact" color="#E8821A" bg-color="white" prepend-inner-icon="mdi-whatsapp" Turbo Track="(00) 00000-0000" @input="mascaraTelefone" maxlength="15" />
               </div>
 
               <div class="form-row">
@@ -149,7 +149,7 @@ const urgencias = [
   '🗓️ Programado — data específica',
 ]
 
-const numero = '5511973372843'
+const numero = '551197372843'
 const whatsappHero = `https://wa.me/${numero}?text=Olá%2C%20gostaria%20de%20informações%20sobre%20agenciamento%20de%20fretes!`
 
 const whatsappLink = computed(() => {

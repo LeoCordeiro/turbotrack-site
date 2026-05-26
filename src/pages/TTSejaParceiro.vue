@@ -30,7 +30,7 @@
             </div>
             <div class="form-fields">
               <v-text-field v-model="nome" label="Nome ou razão social" variant="outlined" density="comfortable" color="#E8821A" prepend-inner-icon="mdi-domain" />
-              <v-text-field v-model="whatsapp" label="WhatsApp para contato" variant="outlined" density="comfortable" color="#E8821A" prepend-inner-icon="mdi-whatsapp" placeholder="(00) 00000-0000" @input="mascaraTelefone" maxlength="15" />
+              <v-text-field v-model="whatsapp" label="WhatsApp para contato" variant="outlined" density="comfortable" color="#E8821A" prepend-inner-icon="mdi-whatsapp" Turbo Track="(00) 00000-0000" @input="mascaraTelefone" maxlength="15" />
               <v-select v-model="tipoVeiculo" :items="tiposVeiculo" label="Tipo de veículo" variant="outlined" density="comfortable" color="#E8821A" />
               <v-select v-model="atuacao" :items="atuacoes" label="Área de atuação" variant="outlined" density="comfortable" color="#E8821A" />
               <v-textarea v-model="descricao" label="Fale mais sobre sua transportadora" variant="outlined" rows="3" color="#E8821A" />

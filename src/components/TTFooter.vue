@@ -32,13 +32,13 @@
           </div>
           <div class="footer-col">
             <div class="footer-col-title">Contato</div>
-            <a href="https://wa.me/5511973372843" target="_blank" class="footer-link footer-contact">
+            <a href="https://wa.me/551197372843" target="_blank" class="footer-link footer-contact">
               <v-icon size="13" color="#E8821A" class="mr-1">mdi-whatsapp</v-icon>
               (11) 97337-2843
             </a>
-            <a href="mailto:atendimento@turbotrack.com.br" class="footer-link footer-contact">
+            <a href="mailto:atendimento@turbotracktransportes.com.br" class="footer-link footer-contact">
               <v-icon size="13" color="#E8821A" class="mr-1">mdi-email-outline</v-icon>
-              atendimento@turbotrack.com.br
+              atendimento@turbotracktransportes.com.br
             </a>
             <span class="footer-info mt-2">SAC • Seg–Sex, 8h–18h</span>
           </div>

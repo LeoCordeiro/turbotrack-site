@@ -1,19 +1,23 @@
-# nerihub
+# Turbo Track Transportes
 
-## Project setup
-```
+Site institucional da **Turbo Track Transportes Ltda - EPP**.
+
+## Tecnologia
+- Vue 3 + Vue Router + Vuex
+- Vuetify 3
+- Cores: #0C1A3E (azul) + #E8821A (laranja)
+
+## Instalação
+```bash
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+## Build
+```bash
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Contato
+- WhatsApp: (11) 97337-2843
+- E-mail: atendimento@turbotracktransportes.com.br

@@ -19,7 +19,7 @@
 
           <div class="form-grid">
             <v-text-field v-model="empresa" label="Nome ou razão social" variant="outlined" density="comfortable" color="#E8821A" prepend-inner-icon="mdi-domain" />
-            <v-text-field v-model="whatsapp" label="WhatsApp para retorno" variant="outlined" density="comfortable" color="#E8821A" prepend-inner-icon="mdi-whatsapp" placeholder="(00) 00000-0000" @input="mascaraTelefone" maxlength="15" />
+            <v-text-field v-model="whatsapp" label="WhatsApp para retorno" variant="outlined" density="comfortable" color="#E8821A" prepend-inner-icon="mdi-whatsapp" Turbo Track="(00) 00000-0000" @input="mascaraTelefone" maxlength="15" />
           </div>
 
           <div class="form-grid">
